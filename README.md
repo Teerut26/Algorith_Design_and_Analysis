@@ -1,4 +1,4 @@
-## 01418232-65 Algorithm Design and Analysis
+## 01418231-65 Algorithm Design and Analysis
 this repository is for the course 01418232-65 Algorithm Design and Analysis
 `@Computer Science, Kasetsart University`
 
